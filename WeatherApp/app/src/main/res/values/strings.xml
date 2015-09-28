@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_location">type location name exactly</string>
+    <string name="button_set">save</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="json_data">default</string>
+</resources>
